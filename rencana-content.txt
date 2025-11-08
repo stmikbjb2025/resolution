@@ -3,6 +3,7 @@ RENCANA KONTEN STMIK BJB
   * ES 6
   * Framework JS
     ^ Vue
+    ^ React
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
