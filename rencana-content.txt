@@ -1,0 +1,7 @@
+RENCANA KONTEN STMIK BJB
+- Javascript
+  * ES 6
+  * Framework JS
+- PHP Frameworks
+- Interview
+- Vlogs
